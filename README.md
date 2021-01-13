@@ -9,3 +9,4 @@ This repository contains a collection of reports of tests conducted on  [Let's W
 * *automatic* - a folder containing reports automatic test reports, such as:
   * unit tests
   * e2e *(end-to-end)* tests
+* *img* - a folder containing images providing additional information for tests
