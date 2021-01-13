@@ -1,6 +1,6 @@
 # "Let's Watch It Together" test case report
 
-## Date: <\date of last template update>\
+## Date: \<date of last template update\>
 
 12.01.2021
 
@@ -12,9 +12,9 @@ Test Stage|Test Date|Tester|Test Case Description|Results|
 
 ## Introduction
 
-1. Setup prodecudes: *Describe the sequence of actions necessary to prepare for execution of the test.*
+1. Setup procedures: *Describe the sequence of actions necessary to prepare for execution of the test.*
 
-2. Stop Procedures: *Describe the sequence of actions necessary to terminate the test.*
+2. Stop procedures: *Describe the sequence of actions necessary to terminate the test.*
 
 ## Enviromental needs
 
